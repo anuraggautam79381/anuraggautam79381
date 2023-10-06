@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript,Reactjs**
 
-- 💬 Ask me about **Html5,CSS,Bootstrap,Javascript,Reactjs**
+- 💬 Ask me about **HTML5,CSS3,BootStrap,Javascript,Reactjs**
 
 - 📫 How to reach me **anuraggautam79381@gmail.com**
 
