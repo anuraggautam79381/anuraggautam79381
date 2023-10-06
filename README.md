@@ -1,4 +1,4 @@
-[![Masterhead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/319891127/original/f809465bd923f63281eb2d723f0efe68e2e16544/develop-a-full-stack-web-app-using-reactjs-nextjs-13-nodejs.jpg)
+[![Masterhead](https://arka-live.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Anurag Gautam</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.zTf6ScmDrJBd8AFv1bai7gHaFj&pid=Api&P=0&h=180">
