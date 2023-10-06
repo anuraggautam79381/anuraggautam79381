@@ -1,3 +1,4 @@
+[![Masterhead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/319891127/original/f809465bd923f63281eb2d723f0efe68e2e16544/develop-a-full-stack-web-app-using-reactjs-nextjs-13-nodejs.jpg)
 <h1 align="center">Hi 👋, I'm Anurag Gautam</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.zTf6ScmDrJBd8AFv1bai7gHaFj&pid=Api&P=0&h=180">
@@ -6,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MERN STACK||FULL STACK DEVELOPER**
+- 🔭 I’m currently working on **MERN STACK||FULL STACK DEVELOPMENT**
 
-- 🌱 I’m currently learning **Javascript,Reactjs etc**
+- 🌱 I’m currently learning **Javascript,Reactjs**
 
-- 💬 Ask me about **Html5,CSS,Bootstrap,Javascript,Reactjs.**
+- 💬 Ask me about **Html5,CSS,Bootstrap,Javascript,Reactjs,Nodejs,Expressjs,MongoDB**
 
 - 📫 How to reach me **anuraggautam79381@gmail.com**
 
-- ⚡ Fun fact **i am funny.**
+- ⚡ Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
