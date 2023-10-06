@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MERN STACK||FULL STACK DEVELOPMENT**
+- 🔭 I’m currently working on **FULL STACK DEVELOPMENT**
 
 - 🌱 I’m currently learning **Javascript,Reactjs**
 
-- 💬 Ask me about **Html5,CSS,Bootstrap,Javascript,Reactjs,Nodejs,Expressjs,MongoDB**
+- 💬 Ask me about **Html5,CSS,Bootstrap,Javascript,Reactjs**
 
 - 📫 How to reach me **anuraggautam79381@gmail.com**
 
