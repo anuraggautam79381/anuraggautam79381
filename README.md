@@ -3,7 +3,6 @@
 <img align="right" alt="coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.zTf6ScmDrJBd8AFv1bai7gHaFj&pid=Api&P=0&h=180">
 
 [![](https://visitcount.itsvg.in/api?id=anuraggautam79381&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 # 💫 About Me:
