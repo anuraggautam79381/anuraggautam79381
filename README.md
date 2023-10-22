@@ -1,4 +1,3 @@
-[![Masterhead](https://arka-live.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Anurag Gautam</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.zTf6ScmDrJBd8AFv1bai7gHaFj&pid=Api&P=0&h=180">
