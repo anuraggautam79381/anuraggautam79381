@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Gautam</h1>
-<h2 align="center">A passionate Full-Stack developer from <img width="40" align="bottom" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/128px/1f1ee-1f1f3.png"></h2>
+<h2 align="center">A passionate Full-Stack developer from <img width="40" align="bottom" src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/india-flag-round-circle-icon.png"></h2>
 <img align="right" alt="coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.zTf6ScmDrJBd8AFv1bai7gHaFj&pid=Api&P=0&h=180">
 
 [![](https://visitcount.itsvg.in/api?id=anuraggautam79381&icon=0&color=0)](https://visitcount.itsvg.in)
